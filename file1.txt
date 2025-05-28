@@ -1,1 +1,2 @@
 this is for github push
+now i have add continet adter pushing to git hub
